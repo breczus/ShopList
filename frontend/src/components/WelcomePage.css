@@ -1,0 +1,15 @@
+main{
+    background-color: #acadae;
+}
+
+h1{
+    text-align: center;
+    margin: 2%;
+}
+p{
+    text-align: center;
+    margin-top: 2%;
+}
+button{
+    margin: 1rem;
+}
