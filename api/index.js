@@ -1,6 +1,7 @@
 const express = require('express')
-const app = express()
-const port = 5000
+const app = express(),
+      bodyParser = require("body-parser");
+      port = 3080;
 
 app.get('/', (req, res) => {
   res.send("hello World")
